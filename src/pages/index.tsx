@@ -21,7 +21,7 @@ export default function Home() {
   </div>
 </div>
 <div className="card w-96 bg-base-100 shadow-xl">
-  <figure><Image src="https://images.unsplash.com/photo-1495996278086-d589e29619ea?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3ByYXklMjBwYWludHxlbnwwfHwwfHx8MA%3D%3D" alt="Shoes" /></figure>
+  <figure><img src="https://images.unsplash.com/photo-1542850513-59adaf9b9b35?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHNwcmF5JTIwcGFpbnR8ZW58MHx8MHx8fDA%3D"  alt="Shoes" /></figure>
   <div className="card-body">
     <h2 className="card-title">Paint Address on Curb</h2>
     <p>Enhance safety, elevate aesthetics, and make your home easily identifiable with our expertly crafted curb paintings. Unveil the charm of your address with our bespoke designs and personalized service. Illuminate your curb with our professional touch!"
