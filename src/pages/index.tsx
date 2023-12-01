@@ -1,14 +1,12 @@
-import Head from 'next/head'
-import Image from 'next/image'
+// import Navbar  from '@/components/navbar'
+// import React from 'react'
 
-import { Inter } from 'next/font/google'
-
-
-const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
+
     <>
+        {/* < Navbar /> */}
     <div className="flex flex-row">
     <div className="hero " style={{backgroundImage: 'url(https://images.unsplash.com/photo-1602740027538-35973ec88b9e?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cGFpbnQlMjByb2xsZXJ8ZW58MHx8MHx8fDA%3D)'}}>
   <div className="hero-overlay bg-opacity-60"></div>
